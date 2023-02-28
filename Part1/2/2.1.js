@@ -1,0 +1,2 @@
+
+console.log("Я JavaScript!");
